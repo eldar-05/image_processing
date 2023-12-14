@@ -6,12 +6,12 @@ This Python script uses the OpenCV library for basic image processing operations
 
 ###  + Resize images 
 
-###  + Convert images to grayscale 
+###  + Convert images to black and white 
 
 ###  + Filter images by color 
 
-###  + Apply Gaussian blur 
+###  + Apply Blur 
 
-###  + Invert image colors 
+###  + Invert colors 
 
-###  + Add random noise 
+###  + Add atmosphere 
